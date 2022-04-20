@@ -1,6 +1,19 @@
 ### Hi there 👋
+--!>
+### Um pouco sobre mim
 
-<!--
+1. Estudante de Programação
+1. Viciado em games
+1. Vou ser...
+1. i. Frontend
+1. ii. Backend
+1. Vou deixar de ser...
+1. Alastro.
+
+---
+-<!--
+
+
 **Ciro-Ugalde/Ciro-Ugalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +26,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
