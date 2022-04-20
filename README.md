@@ -1,5 +1,5 @@
 ### Hi there 👋
---!>
+
 ### Um pouco sobre mim
 
 1. Estudante de Programação
@@ -11,7 +11,6 @@
 1. Alastro.
 
 ---
--<!--
 
 
 **Ciro-Ugalde/Ciro-Ugalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
