@@ -3,7 +3,7 @@
 ### 👨 Um pouco sobre mim
 <i> 📚 Estudante de Análise e Desenvolvimento de Sistemas, e pretendo me especializar em Fron End. Sou um apaixonado por tecnologia e principalmente por games. Estou iniciando essa caminhada na programação, então tenha um pouco de paciência. Além da faculdade, faço alguns cursos extracurriculares para acrescentar meus conhecimentos. </i>
 
-<b>📱 Connect with me:</b>
+<b>📱 Para me encontrar:</b>
 
 <a href="https://www.instagram.com/cirougalde/">
   <img align="left" alt="Ciro Ugalde Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
