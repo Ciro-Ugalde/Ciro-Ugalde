@@ -11,7 +11,7 @@
 <a href="https://twitter.com/cirougalde">
   <img align="left" alt="Ciro Ugalde | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a><href="https://www.linkedin.com/in/ciro-damasco-ugalde-151756220/">
+<a href="https://www.linkedin.com/in/ciro-damasco-ugalde-151756220">
   <img align="left" alt="Ciro Ugalde LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
  
  <br>
