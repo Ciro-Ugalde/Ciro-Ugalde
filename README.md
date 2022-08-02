@@ -1,7 +1,7 @@
 ### <b>Olá, sou Ciro Ugalde!!!</b>
 
 ### 👨 Um pouco sobre mim
-<i> 📚 Estudante de Análise e Desenvolvimento de Sistemas, e pretendo me especializar em Fron End. Sou um apaixonado por tecnologia e principalmente por games. Estou iniciando essa caminhada na programação, então tenha um pouco de paciência. Além da faculdade, faço alguns cursos extracurriculares para acrescentar meus conhecimentos. </i>
+<i> 📚 Minha paixão por tecnologia começou há anos atrás, quando fui apresentado ao mundo gamer. Já trabalhei em diversas áreas, porém sempre senti que faltava algo a mais. Então, tomei a decisão de unir uma antiga paixão com objetivos profissionais. A partir disso resolvi entrar de cabeça na área de desenvolvimento e me encontro em um novo mundo, realizado e sedento por novas descobertas e aprendizados a cada linha de código. Nesse ano de 2022, tive o privilégio de ser selecionado para participar de um curso profissionalizante promovido pela Proway, o Entra21 – Blusoft, e a tecnologia para qual fui selecionado é Java Fullstack. </i>
 
 <b>📱 Para me encontrar:</b>
 
