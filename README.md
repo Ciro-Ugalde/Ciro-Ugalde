@@ -5,8 +5,6 @@
 
 <b>📱 Para me encontrar:</b>
 
-<a href="https://ciro-ugalde.github.io/"></a>
-
 <a href="https://www.instagram.com/cirougalde/">
   <img align="left" alt="Ciro Ugalde Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
