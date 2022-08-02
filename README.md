@@ -20,18 +20,18 @@
 
 
 <b>💡 Estudando:</b>
- - Languages
+ - Linguagens
 
     ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=FFFFFF)&nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 
-- Front-end / Readme
+- Front-end
 
     ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-1B73BA?style=flat&logo=CSS3&logoColor=FFFFFF)&nbsp;
  
 
-- Database
+- Banco de Dados
 
     ![SQLite](https://img.shields.io/badge/-SQLite-FFFFFF?style=flat&logo=sqlite&logoColor=000000)&nbsp;
     
