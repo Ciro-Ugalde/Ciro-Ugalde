@@ -16,9 +16,7 @@ I'm passionate about technology and recently moved from public safety to develop
 [![Linkedin](https://img.shields.io/badge/-Buy%20me%20a%20coffee-black?style=flat&logo=java&logoColor=white)](https://www.buymeacoffee.com/cirougalde/)&nbsp;
 
 
-
 </center>
-
  
 <table> 
 <tbody>
@@ -61,7 +59,6 @@ I'm passionate about technology and recently moved from public safety to develop
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=googlecloud)&nbsp;
-
 
 </td>
 </tr>
@@ -114,3 +111,9 @@ I'm passionate about technology and recently moved from public safety to develop
 
 <img src="./coding.gif">
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=Ciro-Ugalde"
+    alt="gargakshit" </p>
+
+  <br>
