@@ -1,30 +1,116 @@
-### <b>Olá, sou Ciro Ugalde!!!</b>
+# Hi there 🖖
 
-### 👨 Um pouco sobre mim
-<i> 📚 Estudante de Análise e Desenvolvimento de Sistemas, e pretendo me especializar em Fron End. Sou um apaixonado por tecnologia e principalmente por games. Estou iniciando essa caminhada na programação, então tenha um pouco de paciência. Além da faculdade, faço alguns cursos extracurriculares para acrescentar meus conhecimentos. </i>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Ciro+Ugalde)](https://git.io/typing-svg)
 
-<b>📱 Para me encontrar:</b>
+### About me!
+<i> 📚 My name is Ciro Ugalde, I'm from Quarái, RS (Brazil), and I currently live in Porto Belo, SC (Brazil).
 
-<a href="https://www.instagram.com/cirougalde/">
-  <img align="left" alt="Ciro Ugalde Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/cirougalde">
-  <img align="left" alt="Ciro Ugalde | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ciro-damasco-ugalde-151756220">
-  <img align="left" alt="Ciro Ugalde LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
+I'm passionate about technology and recently moved from public safety to development. The profile will be updated as my evolution and projects under construction.
+
+
+<center>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cirougalde/)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=ciro.daniel.ugalde@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Ciro+Tudo+bem?&tf=cm)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciro-damasco-ugalde-java-developer-fullstack//)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Buy%20me%20a%20coffee-black?style=flat&logo=java&logoColor=white)](https://www.buymeacoffee.com/cirougalde/)&nbsp;
+
+
+
+</center>
+
  
- <br>
- <br>
+<table> 
+<tbody>
+<tr>
+<td >👨🏻‍💻</td>
+<td>Backend</td>
+<td>
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)&nbsp;
+
+</td>
+</tr>
+
+<tr>
+<td>👁‍🗨</td>
+<td>Frontend</td>
+<td>
+
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
+![Json](https://img.shields.io/badge/-Json-black?style=flat&logo=json)&nbsp;
+![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat&logo=jquery)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td >🪑🎲</td>
+<td >Database</td>
+<td>
+
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
+![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
+![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=googlecloud)&nbsp;
 
 
-<b>💡 Estudando:</b>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer"<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"><img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"><img src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374"</p>
+</td>
+</tr>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=Ciro-Ugalde"
-    alt="gargakshit" </p>
+<tr>
+
+<td>🔧</td>
+<td>IDE</td>
+<td>
+
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
+![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-black?style=flat&logo=Spring&logoColor=green)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+</td>
+</tr>
+
+<tr>
+
+<td>💾</td>
+<td>Version</td>
+<td>
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+
+</td>
+</tr>
+
+<tr>
+
+<td>🏁</td>
+<td>Deploy</td>
+
+ <td>
+
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<img src="./coding.gif">
+
